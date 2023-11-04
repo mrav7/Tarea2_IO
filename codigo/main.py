@@ -27,4 +27,4 @@ def main(argv=sys.argv) -> None:
       for j in range(len(data)):
         peso_flujo[i][j] = int(data[j])
 
-  print(type(instancia))
+  print(instancia)
